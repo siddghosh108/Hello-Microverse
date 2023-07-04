@@ -133,7 +133,7 @@ If you think that change is necessary - open a Pull Request in this repository a
 👤 **Author**
 
 - GitHub: (https://github.com/siddghosh108)
-- Twitter:  (https://twitter.com/siddharthaghos9)
+- Twitter: (https://twitter.com/siddharthaghos9)
 - LinkedIn: (https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -152,6 +152,8 @@ If you think that change is necessary - open a Pull Request in this repository a
 <!-- CONTRIBUTING -->
 
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
