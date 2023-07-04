@@ -132,9 +132,9 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 👤 **Author**
 
-- GitHub: (https://github.com/siddghosh108)
-- Twitter: (https://twitter.com/siddharthaghos9)
-- LinkedIn: (https://www.linkedin.com/in/siddhartha-ghosh-65902718)
+- GitHub: [@siddghosh108](https://github.com/siddghosh108)
+- Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
+- LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
